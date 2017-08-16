@@ -42,4 +42,8 @@ Manche Dateien setzen bestimmte Formatvorlagen voraus, diese findest du dokument
 
 **Organisation** – Die Organisation des Projekts läuft vollständig über GitHub und daran anschließende Apps. Im Bereich Issues befinden sich hauptsächlich Aufgaben zur Bearbeitung des literarischen Inhalts, aber auch Aufgaben für die Dokumentation. Zur besseren Übersicht kann waffle.io genutzt werden, absprachen und Diskussionen finden über den Chat unter gitter.im statt.
 
+## Instellation
 
+1. Installiere dir OpenOffice: [http://de.libreoffice.org/get-help/install-howto/](http://de.libreoffice.org/get-help/install-howto/)
+2. Installiere dir Git [https://git-scm.com/book/de/v1/Los-geht%E2%80%99s-Git-installieren](https://git-scm.com/book/de/v1/Los-geht%E2%80%99s-Git-installieren) Als Mac- oder Windows-Nutzer kannst du dir auch eine GUI installieren, also eine Oberfläche über die du Git steuerst: [https://git-scm.com/downloads/guis](https://git-scm.com/downloads/guis).
+3. Downloade dir das Gattlandrepository
