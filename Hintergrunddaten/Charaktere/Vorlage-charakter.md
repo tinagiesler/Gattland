@@ -1,34 +1,34 @@
 # Vorlage für einen Charakterbogen
 
 ## Der Erste Eindruck
-**Aussehen: **
+**Aussehen:**
 
-**Wirkung: **
+**Wirkung:**
 
-**Charakter: **
+**Charakter:**
 
-**Glück: **
+**Glück:**
 
 ## Auftreten
-**Haltung: **
+**Haltung:**
 
-**Kleidung: **
+**Kleidung:**
 
-**Sprache/Stimme: **
+**Sprache/Stimme:**
 
-**Schmuck: **
+**Schmuck:**
 
-**Immer dabei: **
+**Immer dabei:**
 
-**Merkmale: **
+**Merkmale:**
 
 
 ## Motivation
-**Sinn des Lebens: **
+**Sinn des Lebens:**
 
-**Fernziele: **
+**Fernziele:**
 
-**Nahziele: **
+**Nahziele:**
 
 **Träume:** 
 
@@ -40,91 +40,91 @@
 ## Status
 **Beruf:** 
 
-**Sozialer: **
+**Sozialer:**
 
-**Einkommen: **
+**Einkommen:**
 
-**Gesellschaftlich: **
+**Gesellschaftlich:**
 
 
 ## Geist
-**Logik: **
+**Logik:**
 
-**Willenskraft: **
+**Willenskraft:**
 
-**Intuition: **
+**Intuition:**
 
-**Überzeugungskraft: **
+**Überzeugungskraft:**
 
 
 ## Körper
 **Alter:** 
 
-**Körperhaare: **
+**Körperhaare:**
 
-**Größe: **
+**Größe:**
 
-**Haarfarbe: **
+**Haarfarbe:**
 
-**Gewicht: **
+**Gewicht:**
 
 **Frisur:** 
 
-**Körperbau: **
+**Körperbau:**
 
-**Augenfarbe: **
+**Augenfarbe:**
 
-**Reaktion: **
+**Reaktion:**
 
-**Gesicht: **
+**Gesicht:**
 
-**Stärke: **
+**Stärke:**
 
-**Merkmale: **
+**Merkmale:**
 
 **Haut:** 
 
-**Wirkung: **
+**Wirkung:**
 
 
 ## Vorlieben VS Abneigungen
-**Charakterzüge: **
+**Charakterzüge:**
 
-**Lieblingsfarbe: **
+**Lieblingsfarbe:**
 
-**Essen: **
+**Essen:**
 
-**Unterhaltung: **
+**Unterhaltung:**
 
-**Interessen: **
+**Interessen:**
 
-**Moral: **
+**Moral:**
 
-**Abneigungen: **
+**Abneigungen:**
 
-**Hobbys: **
+**Hobbys:**
 
 
 ## Freunde und Familie
-**Mutter: **
+**Mutter:**
 
-**Freunde: **
+**Freunde:**
 
-**Vater: **
+**Vater:**
 
-**Partner: **
+**Partner:**
 
-**Geschwister: **
+**Geschwister:**
 
-**Andere: **
+**Andere:**
 
 
 ## Feinde
-**Gegenspieler: **
+**Gegenspieler:**
 
-**Unliebsame: **
+**Unliebsame:**
 
-**Neutren: **
+**Neutren:**
 
 
 ## Fähigkeiten (Geist und Körper)
@@ -162,31 +162,31 @@
 
 
 ## Fakten
-**Geburtstag: **
+**Geburtstag:**
 
-**Geburtsort: **
+**Geburtsort:**
 
-**Wohnorte: **
+**Wohnorte:**
 
 ## Veränderungen
-**Kindheit: **
+**Kindheit:**
 
-**Jugendlicher: **
+**Jugendlicher:**
 
-**Erwachsen: **
+**Erwachsen:**
 
 ## Wissen
-**Schule/Bildung: **
+**Schule/Bildung:**
 
-**Beruf: **
+**Beruf:**
 
-**Hobbys: **
+**Hobbys:**
 
-**Lehrer: **
+**Lehrer:**
 
 ## Soziales Umfeld
-**Frühere Freunde: **
+**Frühere Freunde:**
 
-**Ex-Partner: **
+**Ex-Partner:**
 
-**Frühere Feinde: **
+**Frühere Feinde:**
