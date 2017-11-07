@@ -2,15 +2,19 @@
 
 ## Der Erste Eindruck
 **Aussehen:**
+sportlich, kräftig
 
 **Wirkung:**
 
 **Charakter:**
+pflichtbewusst, zuverlässig
 
 **Glück:**
+mieses Karma
 
 ## Auftreten
 **Haltung:**
+aufrecht
 
 **Kleidung:**
 
@@ -25,10 +29,13 @@
 
 ## Motivation
 **Sinn des Lebens:**
+für eine gute Sache arbeiten
 
 **Fernziele:**
+die Magier stürzen
 
 **Nahziele:**
+Freiheit
 
 **Träume:** 
 
@@ -39,6 +46,7 @@
 
 ## Status
 **Beruf:** 
+Soldat
 
 **Sozialer:**
 
@@ -51,10 +59,12 @@
 **Logik:**
 
 **Willenskraft:**
+stark
 
 **Intuition:**
 
 **Überzeugungskraft:**
+stark
 
 
 ## Körper
@@ -121,6 +131,7 @@
 
 ## Feinde
 **Gegenspieler:**
+Magier
 
 **Unliebsame:**
 
@@ -163,10 +174,12 @@
 
 ## Fakten
 **Geburtstag:**
+97 im ZA des Lichts
 
 **Geburtsort:**
 
 **Wohnorte:**
+Eleazar, kleine Stadt am Katarakt
 
 ## Veränderungen
 **Kindheit:**
@@ -188,5 +201,6 @@
 **Frühere Freunde:**
 
 **Ex-Partner:**
+Inara
 
 **Frühere Feinde:**
