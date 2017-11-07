@@ -7,7 +7,7 @@ sportlich, kräftig
 **Wirkung:**
 
 **Charakter:**
-pflichtbewusst, zuverlässig
+pflichtbewusst, zuverlässig, loyal
 
 **Glück:**
 mieses Karma
@@ -40,9 +40,9 @@ Freiheit
 **Träume:** 
 
 ## Innerer Konflikt
+Er hat einen Programmierfehler: Er hält seine Haltung nund sinee Handlungen gleichzeitig für richtig und falsch.
 
 ## Charaktermerkmale
-
 
 ## Status
 **Beruf:** 
