@@ -10,7 +10,7 @@ Totem + Geschlächtsspezifische Endung
 
 ### Gesamtform
 
-<Vornamen> Vater/Mutter/Tochter/Sohn des <Clanname> Clans 
+VORNAME Vater/Mutter/Tochter/Sohn des CLANNAME Clans 
 
 **Beispiel:**
 

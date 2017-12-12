@@ -11,17 +11,17 @@ typisch weibliche Endung: a, ah
 
 Bei ein Patriziern:
 
-<Vornamen> el <Gilde> 
+VORNAME el GILDE 
 
 Beim Volk:
 
-<Vorname> <Profession>
+VORNAME PROFESSION
 
-Dabei ist die <Profession> seit dem Zeitalter des Windes zu einem erbbaren Nachnamen geworden
+Dabei ist die PROFESSION seit dem Zeitalter des Windes zu einem erbbaren Nachnamen geworden
 
 Bei Frauen grundsätzlich:
 
-<Vorname> al <Gilde>/<Profession>
+VORNAME al GILDE/PROFESSION
 
 Frauen gelten unter den Eleazar bis heute als ein Handlesgut, ihr Name zeigt den Besitzer an. 
 
@@ -29,7 +29,7 @@ Frauen gelten unter den Eleazar bis heute als ein Handlesgut, ihr Name zeigt den
 
 Vor dem Zeitalter des Windes waren auch Doppelnamen dieser Form üblich:
 
-<Vorname> el <Gilde> <Profession>
+VORNAME el GILDE PROFESSION
 
 Sie Zeigten Mitglieder des Volkes an, die im Exklusiven Dienst einer Gilde standen, Seit dem Zeitalter des Windes ist dies eine Sonderform die nur noch wenigen Spezialanwendungen dient, darunter zur Bildung von Namen für Frauen, die von einem Frauenhaus aufgekauft wurden. 
 
