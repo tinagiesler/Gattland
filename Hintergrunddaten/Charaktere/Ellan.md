@@ -4,27 +4,25 @@ Weiblich,
 
 Geboren 73 im Zeitalter des Lichts, gestorben 106 im Zeitalter des Lichts bei der Geburt der Zwillinge
 
-angehörige der Rebellion
+Angehörige der Rebellion
 
 
 
 ## Der Erste Eindruck
 **Aussehen:**
-Zierlich, fast schon dürr, dunkle Haare, dunkle Augen.
+Zierlich, fast schon dürr, dunkle Haare, dunkle Augen
 
 **Wirkung:**
 Resolut
 
 **Charakter:**
-Pragmatisch doch gutherzig
-
-**Glück:**
+Pragmatisch, doch gutherzig
 
 ## Auftreten
 **Haltung:**
 
 **Kleidung:**
-Meist schwarze Kleider, mit enganliegenden, geknöpften Ärmeln und ebenfals schwarzer Schürze.
+Meist schwarze Kleider, mit enganliegenden, geknöpften Ärmeln und ebenfalls schwarzer Schürze
 
 **Sprache/Stimme:**
 
@@ -53,7 +51,7 @@ Meist schwarze Kleider, mit enganliegenden, geknöpften Ärmeln und ebenfals sch
 **Beruf:** 
 Heilerin und Hebamme
 
-**Sozialer:**
+**Sozialer Status:**
 
 **Einkommen:**
 
@@ -102,7 +100,7 @@ dunkelbraun
 **Wirkung:**
 
 
-## Vorlieben VS Abneigungen
+## Vorlieben vs. Abneigungen
 **Charakterzüge:**
 
 **Lieblingsfarbe:**
