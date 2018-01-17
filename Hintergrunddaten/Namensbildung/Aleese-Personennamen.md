@@ -89,3 +89,5 @@ z.B.: John der Bedächtige und Jim Sohn des Bedächtigen, oder Brunhild Magd des
 
 Daraus ergaben sich später abstrahierte Nachnamen nach dem Vorbild der Treborger.
 
+Aleese die bei der Vereinigung Gattlands keinen solchen Beinamen hatten, wurden nach ihren Wohnorten, seltener Berufen benannt.
+
