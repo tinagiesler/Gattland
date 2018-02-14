@@ -7,7 +7,6 @@
 
 **Charakter:**
 
-**Glück:**
 
 ## Auftreten
 **Haltung:**
@@ -34,7 +33,7 @@
 
 ## Innerer Konflikt
 
-## Charaktermerkmale
+## Charakter Eigenschaften
 
 
 ## Status
@@ -47,14 +46,8 @@
 **Gesellschaftlich:**
 
 
-## Geist
-**Logik:**
+## Kognitive Fähigkeiten
 
-**Willenskraft:**
-
-**Intuition:**
-
-**Überzeugungskraft:**
 
 
 ## Körper
